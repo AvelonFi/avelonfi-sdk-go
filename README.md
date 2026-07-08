@@ -4,11 +4,10 @@
 
 **The Autonomous Privacy Bank** — Banking, AI Agents, and Darkpool Execution Without Surveillance.
 
-[![Website](https://img.shields.io/badge/Website-avelonfi.app-6366f1?style=flat-square)](https://avelonfi.app)
-[![dApp](https://img.shields.io/badge/dApp-dapp.avelonfi.app-818cf8?style=flat-square)](https://dapp.avelonfi.app)
-[![Docs](https://img.shields.io/badge/Docs-docs.avelonfi.app-c4b5fd?style=flat-square)](https://docs.avelonfi.app)
-[![Whitepaper](https://img.shields.io/badge/Whitepaper-PDF-e9d5ff?style=flat-square)](https://avelonfi.app/whitepaper.pdf)
-[![Telegram](https://img.shields.io/badge/Telegram-t.me%2Favelonfiapp-26a5e4?style=flat-square)](https://t.me/avelonfiapp)
+[![Website](https://img.shields.io/badge/Website-avelonfi.app-6366f1?style=flat-square)](https://avelonfi.xyz)
+[![dApp](https://img.shields.io/badge/dApp-dapp.avelonfi.app-818cf8?style=flat-square)](https://avelonfi.xyz/app)
+[![Docs](https://img.shields.io/badge/Docs-docs.avelonfi.app-c4b5fd?style=flat-square)](https://avelonfi.xyz/docs)
+[![Telegram](https://img.shields.io/badge/Telegram-t.me%2Favelonfiapp-26a5e4?style=flat-square)]([https://t.me/avelonfiapp](https://t.me/AvelonFi))
 [![X](https://img.shields.io/badge/X-@avelonfi-1d9bf0?style=flat-square)](https://x.com/avelonfi)
 [![GitHub](https://img.shields.io/badge/GitHub-avelonfi-181717?style=flat-square)](https://github.com/avelonfi)
 
