@@ -1,4 +1,4 @@
-# avelonfi Go SDK $avelon
+# AvelonFi Go SDK $AVELON
 
 <div align="center">
 
